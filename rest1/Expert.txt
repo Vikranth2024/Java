@@ -1,0 +1,5 @@
+Ramappa,IN,9877765444,Ramappa@321,bike Mechanic
+Somappa,IN,9877765448,Somappa@321,South Indian Chef
+Munusami,IN,9877765449,Munusami@321,coding expert
+Adithya,IN,9877765440,Adithya@321,installation technician
+Gaikwad,IN,9877765441,Gaikwad@321,Continental Chef
